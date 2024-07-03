@@ -53,7 +53,7 @@ If the program contains helper information, use:
    ```
 ## Authors
 
-Gaurav  
+Alok
 
 
 ## License
